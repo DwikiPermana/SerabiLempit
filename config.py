@@ -16,7 +16,7 @@ APP_ID = int(os.environ.get("APP_ID", "10536502"))
 API_HASH = os.environ.get("API_HASH", "711a8b2117137ce049845112d9f1dbb2")
 
 # ID Channel Database
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001796982933"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001720536940"))
 
 # OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "5077269579"))
@@ -25,14 +25,14 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "5077269579"))
 OWNER = os.environ.get("OWNER", "DkLink")
 
 # Database
-DB_URI = os.environ.get("DATABASE_URL", "postgres://xipareiv:fhpCSYJ10x7BdyGuiVj3krJRbloMKAPH@rosie.db.elephantsql.com/xipareiv")
+DB_URI = os.environ.get("DATABASE_URL", "postgres://zqaprswx:5gz-8C8_EG1XdZ-3IzvgNy0nopGZw9Xp@rosie.db.elephantsql.com/zqaprswx")
 
 # Username CH & Group
-CHANNEL = os.environ.get("CHANNEL", "Lunatic0de")
-GROUP = os.environ.get("GROUP", "SharingUserbot")
+CHANNEL = os.environ.get("CHANNEL", "serabilempits")
+GROUP = os.environ.get("GROUP", "bkpviralidgroup")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001773790754"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001641786834"))
 FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "-1001518010896"))
 
 
